@@ -1,0 +1,21 @@
+{
+  "name": "androcula-pink",
+  "displayName": "androcula-pink",
+  "description": "pink androcula",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "androcula pink",
+        "uiTheme": "vs-dark",
+        "path": "./themes/androcula pink-color-theme.json"
+      }
+    ]
+  }
+}
